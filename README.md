@@ -15,6 +15,7 @@ Therefore i changed the hotend to an Diamond Hotend
 
 https://www.reprap.org/wiki/Diamond_Hotend
 
+
 It has three inputs and has less problems with clogging.
 
 Because the original mainboard broke, it replaced it with a better one.
