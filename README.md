@@ -1,6 +1,10 @@
 # Geeetech-A10M
 Repository of my 3D Printer Geeetech A10M
 
+<img src="Images/IMG_20190925_143311.jpg" width="500">
+
+
+
 The printer is based on an A10M from Geeetech.
 The has an mixing extruder with two inputs, but it does not work well.
 It often get stuck and it is really time-consuming to get it back working.
